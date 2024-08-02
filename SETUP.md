@@ -28,8 +28,8 @@ Complete the following before the first class:
     If you do not have Python installed, then:
 
 - [ ] <img src="https://icons.iconarchive.com/icons/martz90/circle/128/apple-2-icon.png" width="24" height="24"> MacOS users can install from [Pytyon.org](https://www.python.org/downloads/) or by using `homebrew`.
-- [ ] Windows users can install from [Python.org](https://www.python.org/downloads/) to run within Windows.
-- [ ] Windows users will primarily develop within WSL, where you can install Python3 with:
+- [ ] <img src="https://icons.iconarchive.com/icons/martz90/circle/128/windows-8-icon.png" width="24" height="24"> Windows users can install from [Python.org](https://www.python.org/downloads/) to run within Windows.
+- [ ] <img src="https://icons.iconarchive.com/icons/martz90/circle/128/windows-8-icon.png" width="24" height="24"> Windows users will primarily develop within WSL, where you can install Python3 with:
 
         $ sudo apt update
         $ sudo apt install python3 python3-pip
