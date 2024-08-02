@@ -1,6 +1,8 @@
 # Getting Started
 
-Complete the following before the first class:
+Complete the following steps before the first class.
+
+**Note:** Some tasks may cause errors or require additional settings or configuration. This is to be expected. Google, StackOverflow, and your classmates can be helpful, as instructional staff do not have the capacity for desktop support.
 
 - [ ] Take the [**Student Survey**](https://virginia.az1.qualtrics.com/jfe/form/SV_799Osj0KfAPPJ7E).
 
