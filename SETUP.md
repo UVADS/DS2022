@@ -13,9 +13,9 @@ Complete the following before the first class:
 ### Software
 
 - [ ] MacOS users: Find the **Terminal** app (in Applications --> Utilities). You may want to add it to your dock.
-- [ ] Windows users: [**Install and set up WSL**](https://learn.microsoft.com/en-us/windows/wsl/install), the Windows Subsystem for Linux. The default WSL installation will create an Ubuntu environment for you. The username and password you create within WSL does not have to match your Windows username/password. 
+- [ ] Windows users: [**Install and set up WSL**](https://learn.microsoft.com/en-us/windows/wsl/install), the Windows Subsystem for Linux. The default WSL installation will create an Ubuntu environment for you. The username and password you create within WSL does not have to match your Windows username/password. Be sure to complete the WSL installation before you install VS Code.
 - [ ] Install [**Docker Desktop**](https://www.docker.com/get-started/) on your laptop and sign in using the Docker account you created above.
-- [ ] Install [**VS Code**](https://code.visualstudio.com/), the free IDE (integrated development environment), in your primary OS.
+- [ ] Install [**VS Code**](https://code.visualstudio.com/), the free IDE (integrated development environment), in your primary OS. (That is, Windows users install VS Code on the Windows side.) Windows users, once you install VS Code you should install the WSL plugin when prompted.
 - [ ] Install the [**`git` command line**](https://git-scm.com/downloads) for your OS. Windows users may want to install it both in Windows and within WSL. 
 - [ ] Install [**`jq`**](https://jqlang.github.io/jq/) for your OS.
 
