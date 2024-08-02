@@ -2,7 +2,7 @@
 
 Complete the following before the first class:
 
-- [ ] Take the [**Student Survey**]().
+- [ ] Take the [**Student Survey**](https://virginia.az1.qualtrics.com/jfe/form/SV_799Osj0KfAPPJ7E).
 
 ### Services
 
@@ -21,7 +21,7 @@ Complete the following before the first class:
 
 ### Python
 
-- [ ] Find or install Python3 on your laptop. Version 3.9 or higher is preferable. You should be able to invoke it interactively from your terminal with:
+- [ ] Find Python3 on your laptop. Version 3.9 or higher is preferable. You should be able to invoke it interactively from your terminal with:
 
         $ python3
 
@@ -31,7 +31,7 @@ Complete the following before the first class:
 - [ ] Windows users can install from [Python.org](https://www.python.org/downloads/) to run within Windows.
 - [ ] Windows users will primarily develop within WSL, where you can install Python3 with:
 
-        $ apt update
-        $ apt install python3 python3-pip
+        $ sudo apt update
+        $ sudo apt install python3 python3-pip
 
     Once you have a working version of Python on your laptop you need to point VS Code to it. Try creating a sample Python project and making this connection yourself.
