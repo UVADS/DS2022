@@ -32,6 +32,6 @@ Complete the following before the first class:
 - [ ] <img src="https://icons.iconarchive.com/icons/martz90/circle/128/windows-8-icon.png" width="24" height="24"> Windows users will primarily develop within WSL, where you can install Python3 with:
 
         $ sudo apt update
-        $ sudo apt install python3 python3-pip
+        $ sudo apt install -y python3 python3-pip
 
     Once you have a working version of Python on your laptop you need to point VS Code to it. Try creating a sample Python project and making this connection yourself.
