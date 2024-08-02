@@ -7,7 +7,7 @@ Complete the following before the first class:
 ### Services
 
 - [ ] Create a [**GitHub**](https://github.com/) account.
-- [ ] Create an [**AWS Account**](https://signin.aws.amazon.com/signup?request_type=register). This requires payment for any services used. I recommend buying a prepaid credit card ($50-$100 max) and using it to create your new Amazon Web Services account with the “Free Tier.” 
+- [ ] Create an [**AWS Account**](https://signin.aws.amazon.com/signup?request_type=register). This requires payment for any services used. I recommend buying a prepaid credit card ($50-$100 max) and using it to create your new Amazon Web Services account with the “Free Tier.” This course should only incur $30-40 of charges at the most.
 - [ ] Create a free [**Docker account**](https://app.docker.com/signup) to use with Docker Desktop.
 
 ### Software
@@ -19,7 +19,7 @@ Complete the following before the first class:
 - [ ] Install the [**`git` command line**](https://git-scm.com/downloads) for your OS. Windows users may want to install it both in Windows and within WSL. 
 - [ ] Install [**`jq`**](https://jqlang.github.io/jq/) for your OS.
 
-Python:
+### Python
 
 - [ ] Find or install Python3 on your laptop. Version 3.9 or higher is preferable. You should be able to invoke it interactively from your terminal with:
 
