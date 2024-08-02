@@ -6,8 +6,8 @@ Complete the following before the first class:
 
 ### Services
 
-- [ ] Create a [**GitHub**](https://github.com/) account.
-- [ ] Create an [**AWS Account**](https://signin.aws.amazon.com/signup?request_type=register). This requires payment for any services used. I recommend buying a prepaid credit card ($50-$100 max) and using it to create your new Amazon Web Services account with the “Free Tier.” This course should only incur $30-40 of charges at the most.
+- [ ] Create a [**GitHub**](https://github.com/) account if you do not already have one.
+- [ ] Create an [**AWS Account**](https://signin.aws.amazon.com/signup?request_type=register). This requires payment for any services used. I recommend buying a prepaid credit card ($50-$100 max) and using it to create your new Amazon Web Services account with the “Free Tier.” This course should incur $30-40 of charges at the most.
 - [ ] Create a free [**Docker account**](https://app.docker.com/signup) to use with Docker Desktop.
 
 ### Software
