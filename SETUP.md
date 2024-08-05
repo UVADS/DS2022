@@ -27,7 +27,9 @@ Complete the following steps before the first class.
 
         $ python3 -V
 
+
       or
+
 
         $ python -V
 
