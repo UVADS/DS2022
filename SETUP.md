@@ -23,9 +23,13 @@ Complete the following steps before the first class.
 
 ### Python
 
-- [ ] Find Python3 on your laptop. Version 3.9 or higher is preferable. You should be able to invoke it interactively from your terminal with:
+- [ ] Find Python3 on your laptop. Version 3.9 or higher is preferable (3.7 has already reached end of life and 3.8 is close). You should be able to invoke Python interactively, and see what version you have installed, from your terminal:
 
-        $ python3
+        $ python3 -V
+
+      or
+
+        $ python -V
 
     If you do not have Python installed, then:
 
