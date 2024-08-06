@@ -8,6 +8,10 @@
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
+	"mounts": [ 
+		"source=/Users/nmagee/.ssh,target=/home/vscode/.ssh,type=bind"
+	],
+
 	// "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
 	// "workspaceFolder": "/workspace",
 
