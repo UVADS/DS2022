@@ -8,8 +8,12 @@
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
-	"mounts": [ 
-		"source=/Users/nmagee/.ssh,target=/home/vscode/.ssh,type=bind"
+	// "mounts": [ 
+	// 	"source=/Users/nmagee/.ssh,target=/root/.ssh,type=bind"
+	// ],
+
+	"mounts": [
+	    "source=/home/${localEnv:USER}/.ssh,target=/home/vscode/.ssh,readonly,type=bind"
 	],
 
 	// "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
@@ -44,7 +48,7 @@
 	},
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "pip3 install -r requirements.txt && git config --global --add safe.directory /workspaces/DS2022"
+	"postCreateCommand": "pip3 install -r requirements.txt && git config --global --add safe.directory /workspaces/DS2022",
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	"remoteUser": "root"
