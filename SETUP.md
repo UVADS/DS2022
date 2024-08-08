@@ -24,7 +24,7 @@ Complete the following steps before the first class.
 - [ ] Install [**VS Code**](https://code.visualstudio.com/), the free IDE (integrated development environment) in your primary OS. (That is, Windows users install VS Code on the Windows side, not in WSL.) Windows users, once you install VS Code you should install the WSL plugin when prompted.
     - [ ] Install the [**Remote Development**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) plugin from Microsoft.
     - [ ] Install the **GitHub Copilot** plugin from GitHub.
-    - [ ] Install the **GitHub Codespaces** plugin from GitHub.
+    - [ ] Install the [**GitHub Codespaces**](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) plugin from GitHub.
     - [ ] Install the **Python** plugin from Microsoft.
     - [ ] Install the **YAML** plugin from Red Hat.
 
