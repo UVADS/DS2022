@@ -37,8 +37,3 @@ Complete the following steps before the first class.
         $ sudo apt install -y python3 python3-pip
 
     Once you have a working version of Python on your laptop you need to configure VS Code with the path to your local Python. Try creating a sample Python project and making this connection yourself.
-
-
-## Another Header
-
-Can I commit this back?
