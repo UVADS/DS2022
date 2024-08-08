@@ -19,9 +19,14 @@ Complete the following steps before the first class.
 - [ ] <img src="https://icons.iconarchive.com/icons/martz90/circle/128/apple-2-icon.png" width="24" height="24"> MacOS users: Find the **Terminal** app (in Applications --> Utilities). You may want to add it to your dock.
 - [ ] <img src="https://icons.iconarchive.com/icons/martz90/circle/128/windows-8-icon.png" width="24" height="24"> Windows users: [**Install and set up WSL**](https://learn.microsoft.com/en-us/windows/wsl/install), the Windows Subsystem for Linux. The default WSL installation will create an Ubuntu environment for you. The username and password you create within WSL does not have to match your Windows username/password. Be sure to complete the WSL installation before you install VS Code.
 - [ ] Install [**Docker Desktop**](https://www.docker.com/get-started/) on your laptop and sign in using the Docker account you created above.
-- [ ] Install [**VS Code**](https://code.visualstudio.com/), the free IDE (integrated development environment) in your primary OS. (That is, Windows users install VS Code on the Windows side, not in WSL.) Windows users, once you install VS Code you should install the WSL plugin when prompted.
 - [ ] Install the [**`git` command line**](https://git-scm.com/downloads) for your OS. Windows users may want to install it both in Windows and within WSL. 
 - [ ] Install [**`jq`**](https://jqlang.github.io/jq/) for your OS.
+- [ ] Install [**VS Code**](https://code.visualstudio.com/), the free IDE (integrated development environment) in your primary OS. (That is, Windows users install VS Code on the Windows side, not in WSL.) Windows users, once you install VS Code you should install the WSL plugin when prompted.
+    - [ ] Install the **Remote Development** plugin from Microsoft.
+    - [ ] Install the **GitHub Copilot** plugin from GitHub.
+    - [ ] Install the **GitHub Codespaces** plugin from GitHub.
+    - [ ] Install the **Python** plugin from Microsoft.
+    - [ ] Install the **YAML** plugin from Red Hat.
 
 ### Python
 
