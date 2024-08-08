@@ -21,7 +21,7 @@ Complete the following steps before the first class.
 - [ ] Install [**Docker Desktop**](https://www.docker.com/get-started/) on your laptop and sign in using the Docker account you created above.
 - [ ] Install the [**`git` command line**](https://git-scm.com/downloads) for your OS. Windows users may want to install it both in Windows and within WSL. 
 - [ ] Install [**`jq`**](https://jqlang.github.io/jq/) for your OS.
-- [ ] Install [**VS Code**](https://code.visualstudio.com/), the free IDE (integrated development environment) in your primary OS. (That is, Windows users install VS Code on the Windows side, not in WSL.) The links below will open each plugin page within VS Code; then click on "Install" from each plugin page.
+- [ ] Install [**VS Code**](https://code.visualstudio.com/), the free IDE (integrated development environment) in your primary OS. (That is, Windows users install VS Code on the Windows side, not in WSL.) The links below will open each plugin page within VS Code; then click on "Install" from that page.
     - [ ] Install the [**Remote Development**](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) plugin from Microsoft. This bundle contains four plugins.
     - [ ] Install the [**GitHub Copilot**](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) plugin from GitHub.
     - [ ] Install the [**GitHub Codespaces**](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) plugin from GitHub.
