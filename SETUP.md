@@ -10,7 +10,7 @@ Complete the following steps before the first class.
 
 - [ ] Create a [**GitHub**](https://github.com/) account if you do not already have one.
     - [ ] [Enable 2FA](https://github.com/settings/security) for your account. This is required.
-    - [ ] [Enroll in GitHub Education](https://education.github.com/discount_requests/application) as a student. This is required.
+    - [ ] [Enroll in GitHub Education](https://education.github.com/discount_requests/application) as a student and verify. This is required.
 - [ ] Create an [**AWS Account**](https://signin.aws.amazon.com/signup?request_type=register). This requires payment for any services used. I recommend buying a prepaid credit card ($50-$100 max) and using it to create your new Amazon Web Services account with the “Free Tier.” This course should incur $30-40 of charges at the most.
 - [ ] Create a free [**Docker account**](https://app.docker.com/signup) to use with Docker Desktop.
 
