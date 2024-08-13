@@ -38,7 +38,7 @@ Complete the following steps before the first class.
 
 - [ ] <img src="https://icons.iconarchive.com/icons/martz90/circle/128/apple-2-icon.png" width="24" height="24"> MacOS users install from [Python.org](https://www.python.org/downloads/) or by using `homebrew`.
 - [ ] <img src="https://icons.iconarchive.com/icons/martz90/circle/128/windows-8-icon.png" width="24" height="24"> Windows users install from [Python.org](https://www.python.org/downloads/).
-- [ ] <img src="https://icons.iconarchive.com/icons/martz90/circle/128/windows-8-icon.png" width="24" height="24"> Windows users will develop primarily within WSL, where you can install Python3 with:
+- [ ] <img src="https://icons.iconarchive.com/icons/martz90/circle/128/windows-8-icon.png" width="24" height="24"> Windows users will also develop within WSL, where you can install Python3 with:
 
         $ sudo apt update
         $ sudo apt install -y python3 python3-pip
