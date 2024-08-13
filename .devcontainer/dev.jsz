@@ -12,9 +12,7 @@
 	// 	"source=/Users/nmagee/.ssh,target=/root/.ssh,type=bind"
 	// ],
 
-	"mounts": [
-	    "source=/home/${localEnv:USER}/.ssh,target=/home/vscode/.ssh,readonly,type=bind"
-	],
+	"mounts": [],
 
 	// "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
 	// "workspaceFolder": "/workspace",
