@@ -30,7 +30,7 @@ Complete the following steps before the first class.
 
 ### Python
 
-- [ ] Find Python3 on your laptop. Version 3.9 or higher is preferable (3.7 has already reached end of life and 3.8 is close). You can see what version you have installed from your terminal:
+- [ ] Find Python3 on your laptop. Version 3.9 or higher is preferable (3.12 is the current release, 3.7 has already reached its end of life and 3.8 is close to that). You can see what version you have installed from your terminal:
 
         $ python3 -V
 
