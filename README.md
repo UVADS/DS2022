@@ -14,3 +14,7 @@ Syllabi and course details are in Canvas:
 ## Setup
 
 Please read and complete all setup instructions found [here](SETUP.md).
+
+## Content
+
+[Weekly modules](CONTENT.md)
