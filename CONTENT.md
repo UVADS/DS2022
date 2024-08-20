@@ -6,7 +6,7 @@
 - Environments: Git & GitHub
 - Environments: Scripting & pipelines
 - Environments: Containers
-- Infrastructure: Storage & Data Lifecycles
+- Infrastructure: Storage, APIs & Data Lifecycles
 - Infrastructure: Manage your compute resources
 - Infrastructure: Cloud Resources
 - Databases: Managing Data
