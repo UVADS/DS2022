@@ -1,7 +1,6 @@
 # Course Content
 
-- Setup: Complete before class
-- Introduction: Data Engineering Basics / Orientation
+- Intro: Data Engineering Basics / Orientation
 - Environments: The Linux command line and filesystem
 - Environments: Git & GitHub
 - Environments: Scripting & pipelines
