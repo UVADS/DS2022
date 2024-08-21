@@ -27,7 +27,7 @@ Complete the following steps before the first class.
     - [ ] Install the [**GitHub Codespaces**](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) plugin from GitHub.
     - [ ] Install the [**Python**](https://marketplace.visualstudio.com/items?itemName=ms-python.python) plugin from Microsoft.
     - [ ] Install the [**YAML**](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) plugin from Red Hat.
-- [ ] Alternatively, install the [UVA Data Science Extension Pack](https://marketplace.visualstudio.com/items?itemName=uva-school-of-data-science.sds-vscode) plugin from the SDS. This will install all the above extensions plus a few extras.
+- [ ] Alternatively, install the [**UVA Data Science Extension Pack**](https://marketplace.visualstudio.com/items?itemName=uva-school-of-data-science.sds-vscode) plugin from the SDS. This will install all the above extensions plus a few extras.
 
 ### Python
 
