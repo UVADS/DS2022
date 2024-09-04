@@ -1,4 +1,5 @@
-name: automerge
+name: Automerge
+
 on:
   pull_request:
     types:
@@ -10,21 +11,36 @@ on:
       - ready_for_review
       - reopened
       - unlocked
-  pull_request_review:
+
+  pull_request_target:
     types:
-      - submitted
-  check_suite:
-    types:
-      - completed
-  status: {}
+      - opened
+      - synchronize
+      - reopened
+      - edited
+      - labeled
+      - unlabeled
+      - ready_for_review
+
+  workflow_dispatch:
+    inputs:
+      pull-request:
+        description: Pull Request Number
+        required: false
+      review:
+        description: Review ID
+        required: false
+
 jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
-      - id: automerge
-        name: automerge
-        uses: "pascalgn/automerge-action@v0.16.3"
-        permissions:
-          contents: write
-        env:
-          GITHUB_TOKEN: "${{ secrets.GH_TOKEN }}"
+      - uses: reitermarkus/automerge@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          merge-method: rebase
+          do-not-merge-labels: never-merge
+          required-labels: automerge
+          pull-request: ${{ github.event.inputs.pull-request }}
+          review: ${{ github.event.inputs.review }}
+          dry-run: true
