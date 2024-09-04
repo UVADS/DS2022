@@ -15,8 +15,11 @@ Follow all the steps below for practice using GitHub.
 
 ## 2. Fork a Repository and Submit a Pull Request (Command-Line)
 
-1. Go to
-2. Clone that repository (your forked copy) to your local computer, or open in a Codespace.
+1. Go to https://github.com/UVADS/DS2022/ and fork the repository.
+2. Clone your fork to your local computer, or open in a Codespace.
 3. Within the `people` directory create a subdirectory named with your computing ID, i.e. `nem2p` or `mst3k`, etc.
 4. Inside of that subdirectory, create a README.md file.
 5. Paste the code below into that file, and fill out the appropriate fields. If you'd like to include an image of yourself (jpg, png, gif, etc.) add it to your subdirectory as well. Introduce yourselves! If you need an example for reference, see [this page](../people/nem2p/README.md)
+6. Add your file(s), commit them, and push them back to your fork in GitHub.
+7. From your fork in GitHub, submit a Pull Request for your additions to be incorporated back into the original repository.
+8. In Canvas, submit the GitHub URL to the page you created. (i.e. submit something like https://github.com/UVADS/DS2022/blob/main/people/nem2p/README.md)
