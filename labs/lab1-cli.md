@@ -1,6 +1,6 @@
 # Lab 1: The Command Line
 
-Follow all the steps below for practice with the command line. At the bottom are instructions for commands you should write for each prompt, saved to a text file you create using the command line. Upload that file to the Lab assignment page for grading.
+Follow all the steps below for practice with the command line. At the bottom are instructions for commands you should write for each prompt, saved to a text file you create using the command line. Paste the contents of that file to the Lab assignment page for grading.
 
 Complete the following using the <a href="https://shell.cloud.google.com/" target="_new"><b>Google Shell</b></a>. Expand the black terminal area to make it easier to work.
 
