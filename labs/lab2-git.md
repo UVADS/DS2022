@@ -1,6 +1,6 @@
 # Lab 2: GitHub Skills
 
-Follow all the steps below for practice using GitHub. 
+Follow all the steps below for practice using Git and GitHub. 
 
 ## 1. Practice With GitHub Skills (Web Browser)
 
