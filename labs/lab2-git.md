@@ -15,7 +15,7 @@ Follow all the steps below for practice using GitHub.
 
 ## 2. Fork a Repository and Submit a Pull Request (Command-Line)
 
-1. Go to https://github.com/UVADS/DS2022/ and fork the repository.
+1. Go to https://github.com/uvasds-systems/DS2022/ and fork the repository.
 2. Clone your fork to your local computer, or open in a Codespace.
 3. Within the `people` directory create a subdirectory named with your computing ID, i.e. `nem2p` or `mst3k`, etc.
 4. Inside of that subdirectory, create a README.md file.
