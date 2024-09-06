@@ -20,6 +20,20 @@ Follow all the steps below for practice using Git and GitHub.
 3. Within the `people` directory create a subdirectory named with your computing ID, i.e. `nem2p` or `mst3k`, etc.
 4. Inside of that subdirectory, create a README.md file.
 5. Paste the code below into that file, and fill out the appropriate fields. If you'd like to include an image of yourself (jpg, png, gif, etc.) add it to your subdirectory as well. Introduce yourselves! If you need an example for reference, see [this page](../people/nem2p/README.md)
+
+    ```
+    # Your Name
+    
+    ![Path to an image](myphoto.jpg)
+
+    - Hometown: 
+    - Hobbies: 
+    - First Computer I Ever Saw: 
+    - About me: 
+
+    [Need help with Markdown?](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+    ```
+    
 6. Add your file(s), commit them, and push them back to your fork in GitHub.
 7. From your fork in the GitHub website, submit a Pull Request for your additions to be incorporated back into the original repository. You can submit a PR by clicking on the "Contribute" drop-down and selecting "Open Pull Request". That will open up a form which you will submit.
 8. Wait for a notification email that your Pull Request has been accepted.
