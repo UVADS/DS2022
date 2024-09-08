@@ -1,6 +1,6 @@
 Ben Garozzo
 
-![people/huk5pd/IMG_0230.jpeg] (myphoto.jpg)
+![people/huk5pd/IMG_0230.jpeg](myphoto.jpg)
 
 - Hometown: Sudbury, MA
 - Hobbies: Lacrosse, Fantasy Football, Reading and going to gym
