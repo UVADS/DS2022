@@ -1,4 +1,4 @@
-# Your Name
+# Ethan Cao
 
 ![Path to an image](myphoto.jpg)
 
