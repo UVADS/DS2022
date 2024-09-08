@@ -1,6 +1,6 @@
 # Ethan Cao
 
-![Path to an image](Ethan's profile.jpg)
+![Path to an image](Ethan's profile)
 
 - Hometown: Shanghai, China
 - Hobbies: Drum, TEnnis, Gaming, Binge watching movies
