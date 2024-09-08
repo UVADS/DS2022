@@ -1,6 +1,6 @@
 # Ethan Cao
 
-https://github.com/JuneWayne/DS2022/blob/Cloned-DS2022/people/wkt7ne/Ethan's%20profile.jpg?raw=true
+![Path to an image]()
 
 - Hometown: Shanghai, China
 - Hobbies: Drum, TEnnis, Gaming, Binge watching movies
