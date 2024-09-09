@@ -1,6 +1,6 @@
 # Kayla Kim
 
-![Path to an image](Profile photo.png)
+![DS2022/people/rkf9wd/)](headshotKK.png)
 
 - Hometown: Springfield, VA
 - Hobbies: scrapbooking, reading, writing, learning fictional languages like High Valyrian
