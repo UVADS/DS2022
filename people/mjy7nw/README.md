@@ -1,6 +1,6 @@
 # Michael Carlson
 
-![Path to an image](readPhoto.JPG)
+![people/mjy7nw/readPhoto.JPG](readPhoto.JPG)
 
 - Hometown: Alexandria, VA
 - Hobbies: Climbing, Skiing, Going to the Gym, IM Sports (I'll get the shirt one day...)
