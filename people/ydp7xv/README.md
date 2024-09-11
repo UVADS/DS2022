@@ -1,6 +1,6 @@
 # Rachel Seo
 
-/Users/rachelseo/Downloads/myphoto.heic
+![myphoto](https://github.com/user-attachments/assets/cf8330b8-7c81-4d81-a8fb-ac80a1ec2c5a)
 
 - Hometown: Clifton, VA
 - Hobbies: reading, going on runs, flag football, cooking
