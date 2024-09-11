@@ -1,6 +1,6 @@
 # Rachel Seo
 
-![Path to an image](myphoto.jpg)
+![Downloads](myphoto.heic)
 
 - Hometown: Clifton, VA
 - Hobbies: reading, going on runs, flag football, cooking
