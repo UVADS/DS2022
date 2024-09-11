@@ -1,6 +1,6 @@
 # Dylan Hill
 
-![Path to an image](IMG_3735.jpg)
+![Path to an image](file:///Users/dylanhill/Desktop/IMG_3735.jpg)
 
 - Hometown: Westport, CT
 - Hobbies: Watching/Playing Sports, Working Out, Listening to Music, Biking/Running/Hiking in Nature
