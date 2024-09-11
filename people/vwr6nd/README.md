@@ -1,6 +1,6 @@
+<img width="515" alt="Screenshot 2024-09-11 at 4 47 45 PM" src="https://github.com/user-attachments/assets/69e99619-896d-438f-a84e-938b97dff796">
 Tara Ghose
 
-[Screenshot 2024-09-11 at 4.47.45 PM.pdf](https://github.com/user-attachments/files/16970290/Screenshot.2024-09-11.at.4.47.45.PM.pdf)
 
 - Hometown: East Hanover, NJ
 - Hobbies: singing, painting, scrapbooking
