@@ -1,6 +1,6 @@
 **Aidan Mayhue**
 
-DS2022/people/xdw9vp/uvaheadshot.jpeg
+![DS2022/people/xdw9vp/](uvaheadshot.JPG)
 
 - Hometown: Blue Ridge, Virginia
 - Hobbies: Guitar, reading, weightlifting, composing, cooking
