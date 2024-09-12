@@ -1,10 +1,20 @@
-# Kalenga Mumba
+# DS2022
 
-![Path to an image](myphoto.jpg)
+Course material for **DS2022 Systems I: Introduction to Computing**
 
-- Hometown: Charlottesville, Virginia
-- Hobbies: Basketball and video games
-- First Computer I Ever Saw: Apple Mac Desktop Computer 
-- About me: I am in my 2nd year at UVA, majoring in Data Science. I enjoy learning new things and hope to get knowledge of programming and data analysis concepts in the DS courses I am currently taking this semester. 
+## Fall 2024
 
-[Need help with Markdown?](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Instructor: [**Neal Magee**](https://nmagee.github.io/)
+
+Syllabi and course details are in Canvas:
+
+- [**Section DS2022-001**](https://canvas.its.virginia.edu/) (19722) - Tues/Thurs 9:30am-10:45am DS306
+- [**Section DS2022-002**](https://canvas.its.virginia.edu/) (19868) - Tues/Thurs 11:00am-12:15pm DS306
+
+## Setup
+
+Please read and complete all setup instructions found [here](SETUP.md).
+
+## Content
+
+[Weekly modules](CONTENT.md)
