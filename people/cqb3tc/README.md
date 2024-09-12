@@ -1,6 +1,6 @@
 # Jia Park
 
-![Path to an image](IMG_1555 (1).jpg)
+![Path to an image](IMG_1555(1).jpg)
 
 - Hometown: Fairfax, VA
 - Hobbies: Games, volleyball, arts and crafts!
