@@ -1,6 +1,6 @@
 #Liam Ward
 
-![Path to an image](https://photos.google.com/photo/AF1QipM52wloZIpjcZa9YLWBkA_Q4P89SKDeKX2qPytn)
+![Path to an image](IMG_8647.jpg)
 
 - Hometown: ￼Chesapeake, VA
 - Hobbies: Music, Coffee tasting, Cooking
