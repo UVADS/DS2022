@@ -1,7 +1,5 @@
 # Madeleine Cummings
 
-![Path to an image](myphoto.jpg)
-
 - Hometown: Madison Connecticut 
 - Hobbies: Pickleball, reading, traveling, paddleboarding
 - First Computer I Ever Saw: I don't remember
