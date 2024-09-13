@@ -2,7 +2,7 @@
 
 ![Path to an image](pfp.jpg)
 
-- Hometown: Toms River, NJ 
+- Hometown: Toms River, NJ
 - Hobbies: sailing, reading, baking 
 - First Computer I Ever Saw: probably one of my parents' laptops, or one o their desktop computers for work. 
 - About me: I am a second year at UVA, majoring in Data Science and minoring in Business Spanish. 
