@@ -1,4 +1,4 @@
-# Your Name
+# Madeleine Cummings
 
 ![Path to an image](myphoto.jpg)
 
